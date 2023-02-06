@@ -9,12 +9,12 @@
 
 <!-- About Me -->
 
-<samp>
-Sou estudante de Engenharia de Software e estou me especializando em Desenvolvimento Front-end.
-<ul>
-  <li>:books: Estudando: <b>JavaScript, TypeScript, React<b></li>
-</ul>
-</samp>
+<div>
+  <p>Sou estudante de Engenharia de Software e estou me especializando em Desenvolvimento Front-end.</p>
+  <ul>
+    <li>:books: Estudando: <b>JavaScript, TypeScript, React<b></li>
+  </ul>
+</div>
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=2000&vCenter=true&repeat=false&width=435&height=30&lines=Tech+Stack)](https://git.io/typing-svg)
 
