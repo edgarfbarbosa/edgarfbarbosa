@@ -6,11 +6,11 @@
   </a>
 </div>
 
-<br/>
-
-<p>Sou Desenvolvedor Front-end e estudante de Engenharia de Software, moro atualmente na Região Serrana do Rio de Janeiro.</p>
-<p>No momento estou trabalhando para melhorar minhas habilidades em <b>JavaScript</b>, <b>TypeScript</b> e <b>React</b>.</p>
+<div>
+  <p>Sou Desenvolvedor Front-end e estudante de Engenharia de Software, moro atualmente na Região Serrana do Rio de Janeiro.</p>
+  <p>No momento estou trabalhando para melhorar minhas habilidades em <b>JavaScript</b>, <b>TypeScript</b> e <b>React</b>.</p>
+</div>
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=2000&vCenter=true&repeat=false&width=435&height=30&lines=Tech+Stack)](https://git.io/typing-svg)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind)](https://skillicons.dev)
