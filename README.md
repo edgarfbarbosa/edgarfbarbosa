@@ -11,11 +11,9 @@
 </div>
 
 <div>
-  <samp>
-    <p>
-      Sou Desenvolvedor Front-end e estudante de Engenharia de Software, moro atualmente na Região Serrana do Rio de Janeiro. No momento estou trabalhando para melhorar minhas habilidades em <b>JavaScript</b>, <b>TypeScript</b> e <b>React</b>.
-    </p>
-  </samp>
+  <p>
+    Sou Desenvolvedor Front-end e estudante de Engenharia de Software, moro atualmente na Região Serrana do Rio de Janeiro. No momento estou trabalhando para melhorar minhas habilidades em <b>JavaScript</b>, <b>TypeScript</b> e <b>React</b>.
+  </p>
 </div>
 
 <h2>
