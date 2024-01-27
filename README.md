@@ -3,17 +3,14 @@
   <a href="https://medium.com/@edgarfbarbosa"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 </div>
 
-<samp>
+<div>
   <p>
-    Seja qual for a razão pela qual você está aqui, seja bem-vindo!
-  </p>
-  <p>
-    Sou Desenvolvedor Front-end e estudante de Engenharia de Software. Estou sempre disposto a aprender, em qualquer situação, seja ela favorável ou desafiadora.
+    Seja qual for a razão pela qual você está aqui, seja bem-vindo! Sou Desenvolvedor Front-end e estudante de Engenharia de Software. Estou sempre disposto a aprender, em qualquer situação, seja ela favorável ou desafiadora.
   </p>
   <p>
     No momento estou trabalhando para melhorar minhas habilidades em JavaScript e TypeScript.
   </p>
-</samp>
+</div>
 
 ### 🛠️ Technologies & Tools
 
