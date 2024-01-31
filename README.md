@@ -16,6 +16,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind)](#)
 
+### 📝 Posts
+
+  - [Referência para entender Pilhas com JavaScript](https://medium.com/@edgarfbarbosa/refer%C3%AAncia-para-entender-pilhas-com-javascript-6fdeb26d2bef)
+
 ### 🔥 Stats & Activity
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=edgarfbarbosa&theme=transparent&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat)](#)
